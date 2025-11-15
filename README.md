@@ -17,23 +17,37 @@ The frequency of oscillation is given by fo   = 1/2πRC
 
 ## CIRCUIT DIAGRAM:
 ## RC PHASE SHIFT OSCILLATOR
+
 <img width="931" height="467" alt="image" src="https://github.com/user-attachments/assets/4ed531d6-d70c-49dc-8763-be078466bd8f" />
 
 ## MODEL GRAPH:
+
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
 
+![IMG-20251115-WA0065 1](https://github.com/user-attachments/assets/b4b0aab4-0e66-4ec5-bfac-514d1ad8cd93)
+
 ## GRAPH:
+
+![IMG-20251115-WA0066 1](https://github.com/user-attachments/assets/3225b75e-54d5-46e8-a224-25dd84cd3c08)
 
 ## CIRCUIT DIAGRAM:
 ## WIEN BRIDGE OSCILLATOR
+
 <img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/6e20065c-00b5-48e1-88a2-35ae390025bd" />
 
 ## MODEL GRAPH:
+
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/95210d90-f00a-426b-bd1a-54a3a536b2c3" />
 
 ## TABULATION:
+
+![IMG-20251115-WA0067 1](https://github.com/user-attachments/assets/7cca92e1-b913-4060-b988-bc3a91e8e863)
+
+## GRAPH
+
+![IMG-20251115-WA0068 1](https://github.com/user-attachments/assets/50ea0fd0-57ba-4f6d-a46c-0db97db079e5)
 
 ## DESIGN:
 ## RC PHASE SHIFT OSCILLATOR
@@ -66,4 +80,4 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
-
+Thus, the construction of a RC phase shift and Wien bridge oscillator to generate sine wave is done using op-amp
